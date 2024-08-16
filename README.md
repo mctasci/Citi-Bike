@@ -9,4 +9,6 @@ Our goal is to perform a detailed analysis to uncover key trends within the data
 # Data Source:
 https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data/data
 (Rider information since the launch of Citi Bike until the beginning of October 2013.)
-NYC Zip Code GeoJSON https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson
+NYC Zip Code GeoJSON [https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson](https://github.com/nycehs/NYC_geography/blob/master/CD.geo.json)
+# Visualizations
+All the visualizations and some of the analysis can be found on Tableau Public server - 
