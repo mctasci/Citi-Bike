@@ -12,3 +12,4 @@ Our goal is to perform a detailed analysis to uncover key trends within the data
 NYC Zip Code GeoJSON [https://github.com/fedhere/PUI2015_EC/blob/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson](https://github.com/nycehs/NYC_geography/blob/master/CD.geo.json)
 # Visualizations
 All the visualizations and some of the analysis can be found on Tableau Public server - 
+https://public.tableau.com/app/profile/mumin.tasci/viz/CitiBikeNYC4/Story1
